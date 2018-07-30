@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.dicewareclient;
+package edu.cnm.deepdive.jhr_dicewareclient;
 
 import org.junit.Test;
 
